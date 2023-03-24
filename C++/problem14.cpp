@@ -1,7 +1,7 @@
 /*
 
 Arturo Olivares
-March 22, 2023
+March 23, 2023
 
 LeetCode - 14. Longest Common Prefix
 
